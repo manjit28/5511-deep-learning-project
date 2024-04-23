@@ -15,25 +15,27 @@ The Home Equity dataset (HMEQ) contains baseline and loan performance informatio
 
 **BAD**: 1 = Client defaulted on loan, 0 = loan repaid
 
-LOAN: Amount of loan approved.
+**LOAN**: Amount of loan approved.
 
-MORTDUE: Amount due on the existing mortgage.
+**MORTDUE**: Amount due on the existing mortgage.
 
-VALUE: Current value of the property.
+**VALUE**: Current value of the property.
 
-REASON: Reason for the loan request. (HomeImp = home improvement, DebtCon= debt consolidation which means taking out a new loan to pay off other liabilities and consumer debts)
+**REASON**: Reason for the loan request. (HomeImp = home improvement, DebtCon= debt consolidation which means taking out a new loan to pay off other liabilities and consumer debts)
 
-JOB: The type of job that loan applicant has such as manager, self, etc.
+**JOB**: The type of job that loan applicant has such as manager, self, etc.
 
-YOJ: Years at present job.
+**YOJ**: Years at present job.
 
-DEROG: Number of major derogatory reports (which indicates a serious delinquency or late payments).
+**DEROG**: Number of major derogatory reports (which indicates a serious delinquency or late payments).
 
-DELINQ: Number of delinquent credit lines (a line of credit becomes delinquent when a borrower does not make the minimum required payments 30 to 60 days past the day on which the payments were due).
+**DELINQ**: Number of delinquent credit lines (a line of credit becomes delinquent when a borrower does not make the minimum required payments 30 to 60 days past the day on which the payments were due).
 
-CLAGE: Age of the oldest credit line in months.
+**CLAGE**: Age of the oldest credit line in months.
 
-NINQ: Number of recent credit inquiries.
+**NINQ**: Number of recent credit inquiries.
+
+
 
 CLNO: Number of existing credit lines.
 
